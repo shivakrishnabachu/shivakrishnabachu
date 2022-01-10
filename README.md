@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivakrishnabachu
-- 👀 I’m interested in Data science.
-- 🌱 I’m currently learning Machine learning (supervised algorithms),python,Statistics.
-- 💞️ I’m looking to collaborate on projects in various fields. currently on autonomous vehicles.
+- 👀 I’m interested in Data science, so i learned about data, how to process and make something useful
+- 🌱 I have knowledge on Python,Statistics and Machine Learning.
+- 💞️ I’m looking to collaborate on projects in various fields but currently i am working on autonomous vehicle projects.
 - 📫 How to reach me : shiva.krishna184@gmail.com
 
 <!---
